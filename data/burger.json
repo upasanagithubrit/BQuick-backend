@@ -2,25 +2,26 @@
     {
         "id": "Burger01",
         "name": "Veg Burger",
-        "image": "Onion Pizza.jpg",
-        "price": "100"
-    },
-    {
-        "id": "Burger02",
-        "name": "Cheese Burger",
-        "image": "Onion Pizza.jpg",
-        "price": "100"
-    },
-    {
-        "id": "Burger03",
-        "name": "Paneer Cheese Burger",
-        "image": "Onion Pizza.jpg",
-        "price": "100"
+        "image": "Veg Burger.avif",
+        "price": "79"
     },
     {
         "id": "Burger04",
         "name": "Aloo Tikki Burger",
-        "image": "Onion Pizza.jpg",
-        "price": "100"
+        "image": "Aloo Tikki Burger.avif",
+        "price": "99"
+    },
+    {
+        "id": "Burger02",
+        "name": "Cheese Burger",
+        "image": "Cheese Burger.avif",
+        "price": "120" 
+    },
+    {
+        "id": "Burger03",
+        "name": "Paneer Cheese Burger",
+        "image": "Paneer Cheese Burger.avif",
+        "price": "139" 
     }
+   
 ]
