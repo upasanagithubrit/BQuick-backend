@@ -1,32 +1,26 @@
 [
     {
         "id": "Bread01",
-        "name": "Cheese Garlic Bread",
-        "image": "Onion Pizza.jpg",
-        "price": "100"
+        "name": "Pocket Parcel[1 Pc]",
+        "image": "Pocket Parcel .jpg",
+        "price": "49" 
     },
     {
         "id": "Bread02",
         "name": "Stuffed Garlic Bread",
-        "image": "Onion Pizza.jpg",
-        "price": "100"
+        "image": "Stuff Garlic.jpg",
+        "price": "120" 
     },
     {
         "id": "Bread03",
-        "name": "Pocket Calzone",
-        "image": "Onion Pizza.jpg",
-        "price": "100"
+        "name": "Cheese Garlic Bread",
+        "image": "Cheese Garlic.jpg",
+        "price": "129" 
     },
     {
         "id": "Bread04",
-        "name": "Pocket Parcel[1 Pc]",
-        "image": "Onion Pizza.jpg",
-        "price": "100"
-    },
-    {
-        "id": "Bread05",
-        "name": "Zingy Parcel[4 Pc]",
-        "image": "Onion Pizza.jpg",
-        "price": "100"
+        "name": "Pocket Calzone",
+        "image": "Pocket Calezon.jpg",
+        "price": "139" 
     }
 ]

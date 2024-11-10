@@ -1,32 +1,33 @@
 [
     {
         "id": "Pasta01",
-        "name": "White Sauce Pasta",
-        "image": "Onion Pizza.jpg",
-        "price": "100"
+        "name": "Red Sauce Pasta",
+        "image": "Red sauce Pasta.avif",
+        "price": "99" 
     },
     {
         "id": "Pasta02",
-        "name": "Red Sauce Pasta",
-        "image": "Onion Pizza.jpg",
-        "price": "100"
+        "name": "Smoky Pasta",
+        "image": "Smoky Sauce Pasta.avif",
+        "price": "109" 
     },
     {
         "id": "Pasta03",
-        "name": "Smoky Pasta",
-        "image": "Onion Pizza.jpg",
-        "price": "100"
+        "name": "White Sauce Pasta",
+        "image": "White Sauce Pasta.avif",
+        "price": "129" 
     },
     {
         "id": "Pasta04",
-        "name": "Penne Sauce Pasta",
-        "image": "Onion Pizza.jpg",
-        "price": "100"
+        "name": "Pink Sauce Pasta",
+        "image": "Pink Sauce Pasta.avif",
+        "price": "139" 
     },
     {
         "id": "Pasta05",
-        "name": "Pink Dance Pasta",
-        "image": "Onion Pizza.jpg",
-        "price": "100"
+        "name": "Veg Healthy Creamy White Sauce Pasta",
+        "image": "Veg Healthy Creamy White Sauce Pasta.avif",
+        "price": "159" 
     }
+    
 ]

@@ -1,77 +1,50 @@
 [
     {
         "id": "Beverages01",
-        "name": "7UP",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "(20)",
-            "(40)",
-            "(50)"
-        ],
-        "size": [
-            "(250ml)",
-            "(750ml)",
-            "(1L)"
-        ]
+        "name": "7 Up [250ml]",
+        "image": "7 up.jpg",
+        "price": "20"
     },
     {
         "id": "Beverages02",
-        "name": "Pepsi",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "(20)",
-            "(40)",
-            "(50)"
-        ],
-        "size": [
-            "(250ml)",
-            "(750ml)",
-            "(1L)"
-        ]
+        "name": "Pepsi [250ml]",
+        "image": "pepsi.jpg",
+        "price": "20"
     },
     {
         "id": "Beverages03",
-        "name": "Thumbsub",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "(20)",
-            "(40)",
-            "(50)"
-        ],
-        "size": [
-            "(250ml)",
-            "(750ml)",
-            "(1L)"
-        ]
+        "name": "Thumbs Up [250ml]",
+        "image": "Thumbs up.webp",
+        "price": "20"
     },
     {
         "id": "Beverages04",
-        "name": "Dew",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "(20)",
-            "(40)",
-            "(50)"
-        ],
-        "size": [
-            "(250ml)",
-            "(750ml)",
-            "(1L)"
-        ]
+        "name": "Dew [250ml]",
+        "image": "Dew.webp",
+        "price": "20" 
     },
     {
         "id": "Beverages05",
-        "name": "Coca-Cola",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "(20)",
-            "(40)",
-            "(50)"
-        ],
-        "size": [
-            "(250ml)",
-            "(750ml)",
-            "(1L)"
-        ]
+        "name": "Coca-Cola [250ml]",
+        "image": "coca cola.jpg",
+        "price": "20"
+    },
+    {
+        "id": "Beverages06",
+        "name": "Coca-Cola [750ml]",
+        "image": "Coca Cola 750.jpg",
+        "price": "40"
+    },
+    {
+        "id": "Beverages07",
+        "name": "Thumbs Up [750ml]",
+        "image": "Thumbs Up 750.webp",
+        "price": "40"
+    },
+    {
+        "id": "Beverages08",
+        "name": "Limca [750ml]",
+        "image": "Limca.jpg",
+        "price": "40"
     }
 ]

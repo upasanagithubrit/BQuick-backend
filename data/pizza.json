@@ -1,392 +1,201 @@
 [
     {
         "id": "Pizza01",
-        "name": "Onion-Pizza",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Onion Pizza[7 Inches]",
+        "image": "Onion Pizza.avif",
+        "price": "79" 
+        
     },
     {
         "id": "Pizza02",
-        "name": "Corn Pizza",
-        "image": "Corn Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Corn Pizza[7 Inches]",
+        "image": "Corn Pizza.avif",
+        "price": "79" 
+        
     },
     {
         "id": "Pizza03",
-        "name": "Capsicum Pizza",
-        "image": "Capsicum Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Capsicum Pizza[7 Inches]",
+        "image": "Capsicum Pizza.avif",
+        "price": "79" 
+        
     },
     {
         "id": "Pizza04",
-        "name": "Tomato Pizza",
-        "image": "Tomato Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Tomato Pizza[7 Inches]",
+        "image": "Tomato Pizza.avif",
+        "price": "79" 
+        
     },
     {
         "id": "Pizza05",
-        "name": "Cheese Pizza",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Mushroom Pizza[7 Inches]",
+        "image": "Mushroom Pizza.jpg",
+        "price": "99" 
+        
     },
     {
         "id": "Pizza06",
-        "name": "Mushroom Pizza",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Pineapple Pizza[7 Inches]",
+        "image": "Pineapple Pizza.jpg",
+        "price": "99" 
+        
     },
     {
         "id": "Pizza07",
-        "name": "Spicy Pizza",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Spicy Pizza[7 Inches]",
+        "image": "Spicy Pizza.jpg",
+        "price": "110" 
+        
     },
     {
         "id": "Pizza08",
-        "name": "Pineapple Pizza",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Cheese Pizza[7 Inches]",
+        "image": "cheese Pizza.jpg",
+        "price": "120" 
+        
     },
     {
         "id": "Pizza09",
-        "name": "Paneer Cheese Pizza",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Tomato & Capsicum Pizza[7 Inches]",
+        "image": "Tomato & Capsicum Pizza.jpg",
+        "price": "120" 
+        
     },
     {
         "id": "Pizza10",
-        "name": "Tomato & Capsicum Pizza",
-        "image": "Tomato & Capsicum Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Onion & Capsicum Pizza[7 Inches]",
+        "image": "Onion & Capsicum Pizza.jpg",
+        "price": "120" 
+        
     },
     {
         "id": "Pizza11",
-        "name": "Onion & Capsicum Pizza",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Jalapeno & Corn Pizza[7 Inches]",
+        "image": "Jalapeno & Corn Pizza.avif",
+        "price": "120" 
+        
     },
     {
         "id": "Pizza12",
-        "name": "Jalapeno & Corn Pizza",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Paneer Pizza[7 Inches]",
+        "image": "Paneer Pizza.avif",
+        "price": "125" 
+        
     },
     {
         "id": "Pizza13",
-        "name": "Onion & Golden Pizza",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Paneer & Onion Pizza[7 Inches]",
+        "image": "Paneer & Onion Pizza.jpg",
+        "price": "125" 
+        
     },
     {
         "id": "Pizza14",
-        "name": "Healthy Classic Pizza",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Tomato & Cheese Pizza[7 Inches]",
+        "image": "Tomato & Cheese Pizza.jpg",
+        "price": "125" 
+        
     },
     {
         "id": "Pizza15",
-        "name": "Paneer & Onion Pizza",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Healthy Classic Pizza[7 Inches]",
+        "image": "Healthy Classic Pizza.jpg",
+        "price": "129" 
+        
     },
     {
         "id": "Pizza16",
-        "name": "Tomato & Cheese Pizza",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Paneer Cheese[7 Inches] Pizza",
+        "image": "Paneer cheese Pizza.jpg",
+        "price": "139" 
+        
     },
     {
         "id": "Pizza17",
-        "name": "Spicy Paneer Pizza",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Spicy Heaven Pizza[7 Inches]",
+        "image": "Spicy Heaven Pizza.avif",
+        "price": "159" 
+        
     },
+    
     {
         "id": "Pizza18",
-        "name": "Tandoori Paneer Tikka Pizza",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Express Spicy Pizza[7 Inches]",
+        "image": "Express Spicy Pizza.avif",
+        "price": "159" 
     },
     {
         "id": "Pizza19",
-        "name": "Farm Harvested Pizza",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Veggie Crush Pizza[7 Inches]",
+        "image": "Veggie Crush Pizza.avif",
+        "price": "169" 
+        
     },
     {
         "id": "Pizza20",
-        "name": "Paneer Makhani Pizza",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Veggie Paradise Pizza[7 Inches]",
+        "image": "Veggie Paradise Pizza.avif",
+        "price": "169" 
+        
     },
     {
         "id": "Pizza21",
-        "name": "Double Cheese Margherita Pizza",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Spicy Paneer Pizza[7 Inches]",
+        "image": "Spicy Paneer Pizz.avif",
+        "price": "179" 
+        
     },
     {
         "id": "Pizza22",
-        "name": "Veggie Crush Pizza",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Farm Harvested Pizza[7 Inches]",
+        "image": "Farm Harvested Pizza.avif",
+        "price": "179" 
+        
     },
     {
         "id": "Pizza23",
-        "name": "Veggie Paradise Pizza",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Deluxe Delight Pizza[7 Inches]",
+        "image": "Deluxe Delight Pizza.avif",
+        "price": "179" 
+        
     },
     {
         "id": "Pizza24",
-        "name": "Spicy Heaven Pizza",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Tandoori Paneer Tikka Pizza[7 Inches]",
+        "image": "Tandoori Paneer Tikka Pizza.jpg",
+        "price": "189" 
+        
     },
+    
     {
         "id": "Pizza25",
-        "name": "Deluxe Delight Pizza",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Paneer Makhani Pizza[7 Inches]",
+        "image": "Paneer Makhani Pizza.avif",
+        "price": "189" 
+        
     },
     {
         "id": "Pizza26",
-        "name": "Express Spicy Pizza",
-        "image": "Onion Pizza.jpg",
-        "price": [
-            "100",
-            "200",
-            "300"
-        ],
-        "size": [
-            "small",
-            "medium",
-            "large"
-        ]
+        "name": "Sweet And Tangy Pizza[7 Inches]",
+        "image": "Sweet And Tangy Pizza.avif",
+        "price": "189" 
+        
+    },
+    {
+        "id": "Pizza27",
+        "name": "Achaari Paneer Twist Pizza[7 Inches]",
+        "image": "Achaari Paneer Twist Pizza.avif",
+        "price": "189" 
+        
+    },
+    {
+        "id": "Pizza28",
+        "name": "Double Cheese Margherita Pizza[7 Inches]",
+        "image": "Double Cheese Margherita Pizza.avif",
+        "price": "195" 
+        
     }
+    
+    
 ]

@@ -2,37 +2,44 @@
     {
         "id": "Snack01",
         "name": "French Fries",
-        "image": "Onion Pizza.jpg",
-        "price": "100"
+        "image": "French Fries.jpg",
+        "price": "99" 
     },
     {
         "id": "Snack02",
-        "name": "Cheese French Fries",
-        "image": "Onion Pizza.jpg",
-        "price": "100"
+        "name": "Masala Maggi",
+        "image": "Classic Maggie.jpg",
+        "price": "99" 
     },
     {
         "id": "Snack03",
-        "name": "Peri Peri Salted French Fries",
-        "image": "Onion Pizza.jpg",
-        "price": "100"
+        "name": "Cheese French Fries",
+        "image": "peri peri cheese french fries.jpg",
+        "price": "110" 
     },
     {
         "id": "Snack04",
-        "name": "Masala Maggi",
-        "image": "Onion Pizza.jpg",
-        "price": "100"
+        "name": "Peri Peri Salted French Fries",
+        "image": "Peri peri Salted French Fries.avif",
+        "price": "120" 
     },
+   
     {
         "id": "Snack05",
         "name": "Veg Butter Maggi",
-        "image": "Onion Pizza.jpg",
-        "price": "100"
+        "image": "Cheese Maggie.jpg",
+        "price": "120" 
     },
     {
         "id": "Snack06",
         "name": "Paneer Butter Maggi",
-        "image": "Onion Pizza.jpg",
-        "price": "100"
+        "image": "Paneer Butter Maggi.avif",
+        "price": "139" 
+    },
+    {
+        "id": "Snack07",
+        "name": "Cheese Maggi",
+        "image": "Cheese Maggi.avif",
+        "price": "149" 
     }
 ]
